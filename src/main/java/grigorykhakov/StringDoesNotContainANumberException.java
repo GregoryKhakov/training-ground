@@ -1,4 +1,4 @@
-package com.grigorykhakov;
+package grigorykhakov;
 
 public class StringDoesNotContainANumberException extends Exception
 {
